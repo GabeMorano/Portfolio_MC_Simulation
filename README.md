@@ -12,10 +12,10 @@ The objective of this project is to:
 
 ## Methods
 
-This project focuses on reading, organizing and manipulating dataframes retrieved using an Alpaca API using Pandas. Quantitative analysis is conducted to calculate the risk metrics and performance of each portfolio. Daily returns are used to calculate the Sharpe ratios for each portfolio.
+This project focuses on reading, organizing and manipulating dataframes retrieved using an Alpaca API. Pandas is used to conduct a quantitative analysis is conducted to calculate the risk metrics and performance of the given crypto savings account.
 
-Then, a custom portfolio is build and compared to the given portfolios and the S&P500. This new porfolio is built from a combination of the previous portfolios' assets and optimized for the customer's investment goals and risk tolerance. The future value of this custom portfolio is then projected using a Monte Carlo Simulation.
+Then, the savings porfolio is analyzed for its performance under different weight allocations to determine the optimum weight distribution. Monte Carlo Simulations are run under different weight allocations and initial investments to project the potential future value of the portfolio in different scenarios.
 
 ## Goal
 
-The goal of this project is the determine which assets in the given portfolios are performing best across returns, risk, Sharpe ratios, and volatility. Then, a custom portfolio is built to optimize performance between these given variables.
+The goal of this project is to analyze a given savings portfolio and determine the optimum structure of the given investment portfolio to maximize potential future earnings. Weight distribution and initial investment size are configured to maximize future returns.
